@@ -1,7 +1,7 @@
 # django-cheatsheet
 Some Django Cheat Sheet
 
-
+```
 django-admin startproject mysite
 
 python manage.py runserver
@@ -95,3 +95,4 @@ def index( request ):
 {% include "frontend/nav.html" %}
 {% load static %}
 {{ dataindex }}
+```
