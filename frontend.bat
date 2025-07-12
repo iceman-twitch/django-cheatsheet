@@ -1,1 +1,1 @@
-python manage.py startapp frontend
+py manage.py startapp frontend
