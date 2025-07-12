@@ -4,13 +4,13 @@ Some Django Cheat Sheet
 ```
 django-admin startproject mysite
 
-python manage.py runserver
+py manage.py runserver
 
-python manage.py runserver 8080
+py manage.py runserver 8080
 
 py manage.py runserver 80
 
-python manage.py startapp frontend
+py manage.py startapp frontend
 
 py manage.py help
 
@@ -18,7 +18,7 @@ py manage.py makemigrations
 
 py manage.py migrate
 
-python manage.py createsuperuser
+py manage.py createsuperuser
 
 # urls.py
 from django.contrib import admin
